@@ -21,20 +21,10 @@ Every Test Case is identified with the 'TC' tag followed by a letter that identi
 | TCD001 | Checks Dynamic Speed (True) | <b>Configured C environment with the Unity test framework</b> | 
 
 ### Steps 
-<b>Step 1.</b> Assign the value of 2.123 to the spd variable.
-<b>Step 2.</b> Insert a call to the function CheckSpeed(spd).
-<b>Step 3.</b> Checks if the returned value from the CheckSpeed function is equals to 1.
+<b>Step 1.</b> Assign the value of 2.123 to the spd variable.\n
+<b>Step 2.</b> Insert a call to the function CheckSpeed(spd).\n
+<b>Step 3.</b> Checks if the returned value from the CheckSpeed function is equals to 1.\n
 
-| Nome do TC | Title do TC | Pre-Conditions |
-|:----------:|:-----------:|:-------------:|
-| nome do tc | title do tc | pre-conditions do tc |
-|           |             |               |
-
-| Steps |
-|-------|
-| Passo 1: Descreva o primeiro passo necessário para reproduzir o caso de teste. |
-| Passo 2: Descreva o segundo passo, se houver. |
-| Continue a listar os passos necessários para reproduzir o caso de teste, conforme necessário. |
 ## Hardware Test Suit
 TCH001 -
 ## Power Test Suit
