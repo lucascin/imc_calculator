@@ -15,9 +15,12 @@ Every Test Case is identified with the 'TC' tag followed by a letter that identi
 
 ## Dynamics Test Suit
 | ID | Title | Pre-Conditions | 
+|----------------|---------------|--------------|
 | TCD001 | Checks Dynamic Speed (True) | Configured C environment and Unity framework | 
-| Steps | Step 1. Assign the value of 2.123 to the spd variable.
-          Step 2. Insert a call to the function CheckSpeed(spd). |
+| Steps | 
+|--------------------------|
+| Step 1. Assign the value of 2.123 to the spd variable.
+  Step 2. Insert a call to the function CheckSpeed(spd). |
 ## Hardware Test Suit
 TCH001 -
 ## Power Test Suit
