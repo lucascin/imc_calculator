@@ -16,7 +16,7 @@ Every Test Case is identified with the 'TC' tag followed by a letter that identi
 ## Dynamics Test Suit
 | ID | Title | Pre-Conditions | 
 |--------|-----------|--------------|
-| TCD001 | Checks Dynamic Speed (True) | Configured C environment with the Unity test framework | 
+| TCD001 | Checks Dynamic Speed (True) | <b>Configured C environment with the Unity test framework</b> | 
 |           |             |               |
 
 | Steps | 
