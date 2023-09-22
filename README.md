@@ -28,6 +28,40 @@ Every Test Case is identified with the 'TC' tag followed by a letter that identi
 <p></p><b>Step 2.</b> Insert a call to the function CheckSpeed(spd).</p>
 <p></p><b>Step 3.</b> Checks if the returned value from the CheckSpeed function is equals to 0.</p>
 
+<table border="1">
+  <tr>
+    <th>ID</th>
+    <th>Title</th>
+    <th>Pre-Conditions</th>
+  </tr>
+  <tr>
+    <td>TCD001</td>
+    <td>Checks Dynamic Speed True</td>
+    <td>C Environment configured with Unity test framework</td>
+  </tr>
+  <tr>
+    <th colspan="3">Steps</th>
+  </tr>
+  <tr>
+    <td>Step 1.</td>
+    <td>Assign the value of 2.123 to the spd variable.</td>
+    <td>Variable saved</td>
+  </tr>
+  <tr>
+    <td>Step 2.</td>
+    <td>Insert a call to the function CheckSpeed(spd).</td>
+    <td>Function works fine</td>
+  </tr>
+  <tr>
+    <td>Step 3.</td>
+    <td>Checks if the returned value from the CheckSpeed function is equals to 1.</td>
+    <td>Returned the correct value</td>
+  </tr>
+  <tr>
+    <th colspan="3">Expected Results</th>
+  </tr>
+</table>
+
 ## Hardware Test Suit
 TCH001 -
 ## Power Test Suit
