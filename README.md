@@ -18,7 +18,7 @@ Every Test Case is identified with the 'TC' tag followed by a letter that identi
 
 | ID | Title | Pre-Conditions | Steps |
 |--------|-----------|--------------|----------------------------|
-| TCD001 | Checks Dynamic Speed (True) | Configured C environment with the Unity test framework. | <p><b>Step 1.</b> Assign the value of 2.123 to the spd variable.</p><p></p><b>Step 2.</b> Insert a call to the function CheckSpeed(spd).</p><p><b>Step 3.</b> Checks if the returned value from the CheckSpeed function is equals to 1.</p> |
+| TCD001 | Checks Dynamic Speed (True) | Configured C environment with the Unity test framework. | <p style="margin-bottom: 0 !important"><b>Step 1.</b> Assign the value of 2.123 to the spd variable.</p><p style="margin-bottom: 0 !important"><b>Step 2.</b> Insert a call to the function CheckSpeed(spd).</p><p style="margin-bottom: 0 !important"><b>Step 3.</b> Checks if the returned value from the CheckSpeed function is equals to 1.</p> |
 
 
 | ID | Title | Pre-Conditions | 
