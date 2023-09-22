@@ -14,15 +14,16 @@ Every Test Case is identified with the 'TC' tag followed by a letter that identi
 | Wellbeing Test Suite  | WB  | 
 
 ## Dynamics Test Suit
+
+
 | ID | Title | Pre-Conditions | 
 |--------|-----------|--------------|
 | TCD001 | Checks Dynamic Speed (True) | <b>Configured C environment with the Unity test framework</b> | 
-|           |             |               |
 
-| Steps | 
-|--------------------------|
-| Step 1. Assign the value of 2.123 to the spd variable.
-  Step 2. Insert a call to the function CheckSpeed(spd). |
+### Steps 
+<b>Step 1.</b> Assign the value of 2.123 to the spd variable.
+<b>Step 2.</b> Insert a call to the function CheckSpeed(spd).
+<b>Step 3.</b> Checks if the returned value from the CheckSpeed function is equals to 1.
 
 | Nome do TC | Title do TC | Pre-Conditions |
 |:----------:|:-----------:|:-------------:|
