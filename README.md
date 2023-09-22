@@ -6,19 +6,22 @@ Every Test Case is identified with the 'TC' tag followed by a letter that identi
 
 | Suite Name | Suite Letter |
 |----------------------|----------------------|
-| Dynamics Test Suit  | D  | 
-| Hardware Test Suit  | H  | 
-| Power Test Suit  | P  | 
-| Safety Test Suit  | S  | 
-| Warnings Test Suit  | W  | 
-| Wellbeing Test Suit  | WB  | 
+| Dynamics Test Suite  | D  | 
+| Hardware Test Suite  | H  | 
+| Power Test Suite  | P  | 
+| Safety Test Suite  | S  | 
+| Warnings Test Suite  | W  | 
+| Wellbeing Test Suite  | WB  | 
 
-## Test Suites
-
-### Dynamics Test Suit
-### Hardware Test Suit
-### Power Test Suit
-### Safety Test Suit
-### Warnings Test Suit
-### Wellbeing Test Suit
-
+## Dynamics Test Suit
+TCD001 - testDynamicSpeedCheckTrue
+## Hardware Test Suit
+TCH001 -
+## Power Test Suit
+TCP001 -
+## Safety Test Suit
+TCS001 -
+## Warnings Test Suit
+TCW001 -
+## Wellbeing Test Suit
+TCWB001 - 
