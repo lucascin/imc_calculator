@@ -23,6 +23,17 @@ Every Test Case is identified with the 'TC' tag followed by a letter that identi
 |--------------------------|
 | Step 1. Assign the value of 2.123 to the spd variable.
   Step 2. Insert a call to the function CheckSpeed(spd). |
+
+| Nome do TC | Title do TC | Pre-Conditions |
+|:----------:|:-----------:|:-------------:|
+| nome do tc | title do tc | pre-conditions do tc |
+|           |             |               |
+
+| Steps |
+|-------|
+| Passo 1: Descreva o primeiro passo necessário para reproduzir o caso de teste. |
+| Passo 2: Descreva o segundo passo, se houver. |
+| Continue a listar os passos necessários para reproduzir o caso de teste, conforme necessário. |
 ## Hardware Test Suit
 TCH001 -
 ## Power Test Suit
