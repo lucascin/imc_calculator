@@ -15,18 +15,14 @@ Every Test Case is identified with the 'TC' tag followed by a letter that identi
 
 ## Dynamics Test Suit
 ### [TCD001] Checks Dynamic Speed (True)
-<p><b>Pre-Conditions:</b> Configured C environment with the Unity test framework.</p>
+<p><b>Pre-Conditions:</b> <p>Configured C environment with the Unity test framework.</p><p>Declare the spd variable of type float.</p></p>
 <p><b>Steps:</b> <p>Step 1. Assign the value of 2.123 to the spd variable.</p><p>Step 2. Insert a call to the function CheckSpeed(spd).</p><p>Step 3. Checks if the returned value from the CheckSpeed functin is equals to 1.</p></p>
-<p></p><b>Expected results:</b><p>Step 1. The speed value is saved on the spd variable.</p><p>The CheckSpeed function is called with no problems.</p><p>The test passes due to the returned value by the CheckSpeed function being equals to 1.</p><p>
+<p></p><b>Expected results:</b><p>Step 1. The speed value is saved on the spd variable.</p><p>Step 2. The CheckSpeed function is called with no problems.</p><p>Step 3. The test passes due to the returned value by the CheckSpeed function being equals to 1.</p><p>
 
-
-| ID | Title | Pre-Conditions | 
-|--------|-----------|--------------|
-| TCD002 | Checks Dynamic Speed (False) | Configured C environment with the Unity test framework. | 
-<p><b>Step 1.</b> Assign the value of 6.123 to the spd variable.</p>
-<p></p><b>Step 2.</b> Insert a call to the function CheckSpeed(spd).</p>
-<p></p><b>Step 3.</b> Checks if the returned value from the CheckSpeed function is equals to 0.</p>
-
+### [TCD002] Checks Dynamic Speed (False)
+<p><b>Pre-Conditions:</b> <p>Configured C environment with the Unity test framework.</p><p>Declare the spd variable of type float.</p></p>
+<p><b>Steps:</b> <p>Step 1. Assign the value of 6.123 to the spd variable.</p><p>Step 2. Insert a call to the function CheckSpeed(spd).</p><p>Step 3. Checks if the returned value from the CheckSpeed functin is equals to 0.</p></p>
+<p></p><b>Expected results:</b><p>Step 1. The speed value is saved on the spd variable.</p><p>Step 2. The CheckSpeed function is called with no problems.</p><p>Step 3. The test passes due to the returned value by the CheckSpeed function being equals to 0.</p><p>
 
 ## Hardware Test Suit
 TCH001 -
